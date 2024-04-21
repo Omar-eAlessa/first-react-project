@@ -10,6 +10,9 @@ function App() {
         <h2 className="text-white text-xl pt-24">Frequently Asked Questions</h2>
         <div className=' rounded-lg text-white space-y-8 text-center mx-2 ml-20'>
 
+          <div>
+            new line 
+          </div>
            
           {/* <div className='bg-black w-24 h-7 rounded text-white items-center justify-center'>ss</div> */}
           {/* <div className='bg-black w-24 h-7 rounded text-white items-center justify-center'>ss</div> */}
