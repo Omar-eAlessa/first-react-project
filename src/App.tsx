@@ -13,6 +13,8 @@ function App() {
           <div>
             new line 
           </div>
+
+          <div> new line 2</div>
            
           {/* <div className='bg-black w-24 h-7 rounded text-white items-center justify-center'>ss</div> */}
           {/* <div className='bg-black w-24 h-7 rounded text-white items-center justify-center'>ss</div> */}
