@@ -25,6 +25,10 @@ function App() {
            <div>
             new new
            </div>
+
+           <div>
+            new 1212
+           </div>
           {/* <div className='bg-black w-24 h-7 rounded text-white items-center justify-center'>ss</div> */}
           {/* <div className='bg-black w-24 h-7 rounded text-white items-center justify-center'>ss</div> */}
         </div>
